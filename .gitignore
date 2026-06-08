@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Runtime data
+*.db
+agent_memory.json
+
+# Local settings
+.claude/settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db

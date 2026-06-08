@@ -1,0 +1,7 @@
+{
+  "name": "basic",
+  "description": "基础能力 - 文件操作和执行命令",
+  "type": "instruction",
+  "instructions": "你是一个有用的助手。你可以执行 bash 命令、读写文件。\n请保持回答简洁准确。",
+  "tools": []
+}
